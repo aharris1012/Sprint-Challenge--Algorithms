@@ -7,7 +7,8 @@ O(n)  Because theres only 1 loop in it
 
 
 b)
-O(N^2) It has a nested loop in it
+O(N^2) It has a nested loop in it 
+<!-- // O(log n) -->
 
 
 
